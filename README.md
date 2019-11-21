@@ -12,5 +12,5 @@ It is hosted here: https://friend-finder-sdh.herokuapp.com/
 4. Your closest-matched friend will appear in the Modal window. 
 
 ## Tech Used
-HTML, CSS, Javascript, jQuery, DOM Manipulation
+HTML, CSS, Javascript, Express.js, HTTP POST, Routing
 

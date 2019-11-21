@@ -1,21 +1,16 @@
 # FriendFinder
 
-This application is essentially a friend matching service. 
-
+This application is essentially a friend matching service.  
 It is hosted here: https://friend-finder-sdh.herokuapp.com/
 
-## Setup
-1. Clone this repo to your local directory.
+## Instructions
 
-2. Navigate to your repo in your command terminal, and enter:
+1. Click the Start button to start the survey.
+2. Enter your name and a photo link.
+3. Answer each question.
+3. Click Submit.
+4. Your closest-matched friend will appear in the Modal window. 
 
-   npm install
+## Tech Used
+HTML, CSS, Javascript, jQuery, DOM Manipulation
 
-Feel free to load your own starter data into the friends.js file, or use the ones already in there.
-
-## Overview
-The home page of the app has a button to start the survey.
-
-The survey will present you with a questionnaire.
-
-Clicking submit will generate your match and display it to you in a modal window.
